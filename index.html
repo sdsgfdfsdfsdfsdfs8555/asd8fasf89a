@@ -1,1 +1,73 @@
-8========D~~~*
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>8==D~*</title>
+
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: black;
+}
+
+main {
+    width: 100vw;
+    height: 100vh;
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#display {
+    color: white;
+    font-family: Arial, sans-serif;
+    font-weight: 900;
+    font-size: 20vw;
+    white-space: nowrap;
+    line-height: 1;
+    letter-spacing: -0.07em;
+    text-align: center;
+}
+</style>
+</head>
+
+<body>
+<main>
+    <div id="display">8==D~*</div>
+</main>
+
+<script>
+function resizeText() {
+    const display = document.getElementById("display");
+
+    let size = 200;
+    display.style.fontSize = size + "px";
+
+    while (
+        (display.scrollWidth > window.innerWidth ||
+         display.scrollHeight > window.innerHeight)
+        && size > 1
+    ) {
+        size -= 1;
+        display.style.fontSize = size + "px";
+    }
+}
+
+window.addEventListener("resize", resizeText);
+resizeText();
+</script>
+</body>
+</html>
