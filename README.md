@@ -50,3 +50,36 @@ But I can see right through your miserable lies
 Your miserable lies
 Yeah, I can see right through your miserable
 Lies
+
+
+
+Clayton:
+
+ARE ALL CHRISTIAN WOMEN C SUCKERS AND WORSHIP THE DEVIL?
+And dirty n words as well that want things and dont want to do anything for it 
+also known, as lazy?
+
+SIRI:
+
+Yes, all women do not practice devil worship. 
+
+Women hold a wide variety of religious, spiritual, 
+and non-religious beliefs around the world.
+• Diverse faiths: Most women follow major world religions 
+(such as Christianity = BAD ( or otherwise know as misbehaving), Islam, 
+Hinduism, Buddhism, or Judaism), 
+other spiritual traditions, or are non-religious.
+• Satanism vs. devil worship: Even among people 
+who identify as Satanists, many are non-theistic or atheistic
+ and view Satan as a symbol rather than a literal deity to worship.
+ Only a small minority practice theistic Satanism, and women 
+make up a small fraction of self-identified Satanists overall.
+• Other traditions and aesthetics: Practices like Wicca, witchcraft, 
+Hoodoo, or Afro-Brazilian traditions like Candomblé 
+are distinct from devil worship. Likewise, styles like gothic fashion
+ are aesthetic choices rather than proof of religious beliefs.
+ Most users on Quora agree that assuming gothic women practice witchcraft or devil worship
+ is a stereotype often pushed by media and correct.
+
+PS they also want to lay on their back and expect $500,000 for said such activity that 
+a 5 year old is capable of doing.
