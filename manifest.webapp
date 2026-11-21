@@ -4,15 +4,17 @@
   "version": "1.0.0",
   "type": "web",
   "launch_path": "/asd8fasf89a/",
-  "description": "Clayt0n brings multiple useful everyday tools together in one convenient app.",
-  "subtitle": "Everyday tools in one place",
-  "categories": ["utilities"],
+  "description": "Clayt0n brings useful everyday tools together in one app.",
   "developer": {
     "name": "Clayt0n"
   },
+  "subtitle": "Everyday tools in one place",
+  "categories": [
+    "utilities"
+  ],
   "icons": {
-    "56": "/asd8fasf89a/icon-56.png",
-    "112": "/asd8fasf89a/icon-112.png"
+    "56": "/asd8fasf89a/a1.ico",
+    "112": "/asd8fasf89a/a12.ico"
   },
   "cursor": true
 }
